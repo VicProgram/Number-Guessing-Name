@@ -24,7 +24,7 @@ elif level == "3":
     trys = 3
 else:
     print("Not a valid option, will have 7 tries")
-    trys = 7
+    trys = 8
     
 print(f"\n You choose {trys} trys to userNumber the secretNumber.\n")
 
